@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2b231389-9dd7-414a-b43e-805cdb36b140)# LITA-CLASS-PROJECT
+
 This contain documentations of the class project carried out during my Data Analysis training at The Incubator Hub
 
 ## LITA CLASS PROJECT DOCUMENTATION
