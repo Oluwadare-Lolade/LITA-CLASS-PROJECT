@@ -32,6 +32,13 @@ The EDA process helped to discover some question which are imperative to the fin
 - What is the attrition count by gender?
 
 ### Data Visualizations and Insights
+---
+This charts shows the attrition count by gender and it was observed that male employees has more attrition count than the female employees. 
+
+![Attrition by gender](https://github.com/user-attachments/assets/f4be6f9b-cf28-4713-a62b-77ea9a17a628)
+
+
+
 
 
 
