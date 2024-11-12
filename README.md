@@ -24,6 +24,26 @@ The data used was an excel file (HR Data) provided by The Incubator Hub.
 1. Data Inspection
 2. Data Formatting
 
+### Exploratory Data Analysis
+---
+The EDA process helped to discover some question which are imperative to the findings of this project. The questions are;
+- What is the sum of attrition count?
+- What is the attrition count by department?
+- What is the attrition count by gender?
+
+### Data Visualizations and Insights
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
