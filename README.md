@@ -59,7 +59,7 @@ The below scatter plot shows a relationship between Average years at company, To
 
 ### Recommendations
 ---
-- A total number of 237 employees left the company which could be facctored by lots of reasons. The attrition count at the department level should be examined to better understand the peculiarities of each department and the employee-work relationship to be able to proffer lasting solution especially to the depatment with the highest attrition count.
+- A total number of 237 employees left the company which represent 16% out of the sum of 1233 employees which could be factored by lots of reasons. The attrition count at the department level should be examined to better understand the peculiarities of each department and the employee-work relationship to be able to proffer lasting solution especially to the depatment with the highest attrition count.
 - It was also observed that quite a number of employees that were very dissatisfied with their job left the company which should lead to further investgations reagrding the dissatisfaction experienced, so as to foster effective emoloyees management thereby reducing the overall attrition rate of the company.
 
 
