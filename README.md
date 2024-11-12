@@ -1,4 +1,4 @@
-# LITA-CLASS-PROJECT
+![image](https://github.com/user-attachments/assets/2b231389-9dd7-414a-b43e-805cdb36b140)# LITA-CLASS-PROJECT
 This contain documentations of the class project carried out during my Data Analysis training at The Incubator Hub
 
 ## LITA CLASS PROJECT DOCUMENTATION
@@ -53,9 +53,15 @@ R&D Department has more attrition count compared tp other department.
 ![Attrition by department](https://github.com/user-attachments/assets/a2294f46-8ae6-4335-a725-58289fecd77c)
 
 ---
-The below scatter plot shows a relationship between Average years at company, Total working years and Atrition count where it was observed that the higher the total workin years of each employees, the lower the attribution count. Attrition count was greatly observed in employees that had spent a maximum of 8 years in the company and 10 total working years.
+The below scatter plot shows a relationship between Average years at company, Total working years and Atrition count where it was observed that the higher the total working years of each employees, the lower the attribution count. Attrition count was greatly observed in employees that had spent a maximum of 8 years in the company and 10 total working years.
 
 ![Scatter plot attrition](https://github.com/user-attachments/assets/a5c2709c-cebc-4b46-a0ae-c5b52bfa4ea2)
+
+### Recommendations
+---
+- A total number of 237 employees left the company which could be facctored by lots of reasons. The attrition count at the department level should be examined to better understand the peculiarities of each department and the employee-work relationship to be able to proffer lasting solution especially to the depatment with the highest attrition count.
+- It was also observed that quite a number of employees that were very dissatisfied with their job left the company which should lead to further investgations reagrding the dissatisfaction experienced, so as to foster effective emoloyees management thereby reducing the overall attrition rate of the company.
+
 
 
 
