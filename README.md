@@ -37,6 +37,26 @@ This charts shows the attrition count by gender and it was observed that male em
 
 ![Attrition by gender](https://github.com/user-attachments/assets/f4be6f9b-cf28-4713-a62b-77ea9a17a628)
 
+---
+Attrition count by Education shows that there are more employees with Bachelor's degree that left the organization compared to other educational qualifications. 
+
+![Attrition by education](https://github.com/user-attachments/assets/2f7a95fe-cec0-4ce5-a37d-ca8458bb5ab7)
+
+---
+Employees between the age band '24-34' has the highest attrition count. 
+
+![Attrition by age   gender](https://github.com/user-attachments/assets/21f67cad-53ad-48ac-955e-f823cd448a82)
+
+---
+R&D Department has more attrition count compared tp other department. 
+
+![Attrition by department](https://github.com/user-attachments/assets/a2294f46-8ae6-4335-a725-58289fecd77c)
+
+---
+The below scatter plot shows a relationship between Average years at company, Total working years and Atrition count where it was observed that the higher the total workin years of each employees, the lower the attribution count. Attrition count was greatly observed in employees that had spent a maximum of 8 years in the company and 10 total working years.
+
+![Scatter plot attrition](https://github.com/user-attachments/assets/a5c2709c-cebc-4b46-a0ae-c5b52bfa4ea2)
+
 
 
 
